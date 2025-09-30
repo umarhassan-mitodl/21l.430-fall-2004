@@ -4,6 +4,8 @@ description: Guidelines from the course professor on reading journals.
 file: /courses/21l-430-popular-narrative-masterminds-fall-2004/f68057009589e56d00e98bb02628e684_MIT21L_430F04_journals.pdf
 file_size: 59987
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile

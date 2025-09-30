@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: This section provides bibliographic references for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -15,15 +17,15 @@ The following books are required reading for the course. Please be sure to get t
 
 Hillerman, Tony. _Sacred Clowns._ New York, NY: HarperTorch, 1994. ISBN: 9780061092602.
 
-Shelley, Mary. _Frankenstein._ New York, NY: Dover Publications, 1994. ISBN: 9780486282114. ({{% resource_link "8745b122-1397-4894-8e36-fee67c07ec25" "Download" %}} a version of the text from Project Gutenberg)
+Shelley, Mary. _Frankenstein._ New York, NY: Dover Publications, 1994. ISBN: 9780486282114. ([Download](http://www.gutenberg.org/etext/84) a version of the text from Project Gutenberg)
 
-Marlowe, Christopher. _Dr. Faustus._ New York, NY: Dover Publications, 1994. ISBN: 9780486282084. ({{% resource_link "e8e7e2b3-555e-4f24-92e1-3f9ac8bbb29b" "Download" %}} a version of the text from Project Gutenberg)
+Marlowe, Christopher. _Dr. Faustus._ New York, NY: Dover Publications, 1994. ISBN: 9780486282084. ([Download](http://www.gutenberg.org/etext/779) a version of the text from Project Gutenberg)
 
 Banville, John. _Kepler._ New York, NY: Vintage, 1993. ISBN: 9780679743705.
 
 Brecht, Bertolt. _Galileo._ New York, NY: Grove Press, 1994. ISBN: 9780802130594.
 
-Doyle, Arthur Conan. _A Study in Scarlet._ New York, NY: Penguin (Non-Classics), 1982. ISBN: 9780140057072. ({{% resource_link "936f628a-2bed-4d05-97b9-5337df676d46" "Download" %}} a version of the text from Project Gutenberg)
+Doyle, Arthur Conan. _A Study in Scarlet._ New York, NY: Penguin (Non-Classics), 1982. ISBN: 9780140057072. ([Download](http://www.gutenberg.org/etext/244) a version of the text from Project Gutenberg)
 
 Hawthorne, Nathaniel. "The Birthmark," and "Rappacini's Daughter." Chapters in _Young Goodman Brown and Other Short Stories._ New York, NY: Dover Publications, 1992. ISBN: 9780486270609.
 
@@ -44,7 +46,7 @@ White, Pepper. _The Idea Factory: Learning to Think at MIT._ Cambridge: The MIT 
 
 Bloom, Harold. "Introduction: What Is Genius?" Chapter in _Genius: A Mosaic of One Hundred Exemplary Creative Minds._ New York, NY: Warner Books, 2002.
 
-Rich, Adrienne. "Planetarium." (Read a version of this text on {{% resource_link "485575f5-fd06-43cd-bd7e-fc4a5a6746ec" "American Poems" %}})
+Rich, Adrienne. "Planetarium." (Read a version of this text on [American Poems](http://www.americanpoems.com/poets/adrienne_rich/7091))
 
 Kidder, Tracy. _Among Schoolchildren._ New York, NY: William Morrow & Company, Inc., 1982.
 
@@ -63,12 +65,12 @@ Selzer, Richard. _Mortal Lessons: Notes on the Art of Surgery._ New York, NY: Si
 Films and Video
 ---------------
 
-Wiene, Robert. {{% resource_link "59c72299-c26b-4d1d-b2c3-b8358ecb98d8" "_The Cabinet of Doctor Caligari_" %}}. 1920.
+Wiene, Robert. [_The Cabinet of Doctor Caligari_](http://www.imdb.com/title/tt0010323/). 1920.
 
-Christie, Agatha. "The Mirror Cracked From Side to Side." {{% resource_link "ad3b5587-97a4-48a3-b087-3728cbe72560" "_Miss Marple_" %}}_._ Vol. 2. A&E Home Video, 1992.
+Christie, Agatha. "The Mirror Cracked From Side to Side." [_Miss Marple_](http://www.imdb.com/title/tt0104882/)_._ Vol. 2. A&E Home Video, 1992.
 
-Young, Terence. {{% resource_link "b7fd2bba-5736-4069-a589-1389cc602829" "_Dr. No_" %}}. 1962. (The first James Bond film.)
+Young, Terence. [_Dr. No_](http://www.imdb.com/title/tt0055928/). 1962. (The first James Bond film.)
 
-Else, John. {{% resource_link "37b13a46-e019-4f68-8312-7bb019b34895" "_The Day After Trinity_" %}}. 1980.
+Else, John. [_The Day After Trinity_](http://www.imdb.com/title/tt0080594/). 1980.
 
-Kubrick, Stanley. {{% resource_link "c1db5291-213d-4bc3-b9f5-b2bf230d9ee8" "_Dr. Strangelove_" %}}. 1964.
+Kubrick, Stanley. [_Dr. Strangelove_](http://www.imdb.com/title/tt0057012/). 1964.
