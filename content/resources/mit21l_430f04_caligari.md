@@ -4,8 +4,6 @@ description: Example student journal assignment.
 file: /courses/21l-430-popular-narrative-masterminds-fall-2004/a4590f488d773cf6c8c09247764b4a37_MIT21L_430F04_caligari.pdf
 file_size: 57285
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
